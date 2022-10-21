@@ -1,0 +1,30 @@
+table,th,td{
+    border: 1px rgb(184, 153, 255) ;
+    background-color: aquamarine;
+    border: solid slateblue ;
+
+}
+.frame-champoo{
+    align-content: center;
+    background-color: rgb(255, 167, 35);
+    border: 1px darkred;
+    border-style: groove;
+    margin-top: 80px;
+    margin-left: 520px;
+}
+.frame-coditioner{
+    align-content: center;
+    background-color: rgb(255, 167, 35);
+    border: 1px darkred;
+    border-style: groove;
+    margin-top: 80px;
+    margin-left: 520px;
+}
+.frame-pongfok{
+    align-content: center;
+    background-color: rgb(255, 167, 35);
+    border: 1px darkred;
+    border-style: groove;
+    margin-top: 80px;
+    margin-left: 520px;
+}

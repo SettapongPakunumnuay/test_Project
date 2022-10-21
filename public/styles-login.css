@@ -1,0 +1,15 @@
+html,body{
+    background-color: rgb(247, 0, 0);
+    padding: 0;
+    margin: 0;
+}
+.welcome{
+    background-color: rgb(221, 253, 253);
+    border:solid rgb(0, 0, 0) ;
+    text-align: center;
+    padding: 50px;
+    margin: 20px;
+    width: 25%;
+    margin-left: 500px;
+    margin-top: 150px;
+}
